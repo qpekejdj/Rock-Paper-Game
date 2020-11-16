@@ -1,1 +1,1 @@
-# Rock-Paper-Game
+Play Rock paper game
